@@ -14,32 +14,32 @@ class ServicesFixtures extends Fixture
             [
                 'photo' => 'cards-1.jpg',
                 'titre' => 'AMENAGEMENT EXT.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Conception de cabanons, meubles extérieurs, abris, rangements… DML est là pour sublimer votre extérieur avec des réalisations sur mesure et adaptées à vos besoins.',
             ],
             [
                 'photo' => 'cards-2.jpg',
                 'titre' => 'AMENAGEMENT INT.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Conception de meubles sur mesure, rangements , aménagements … DML est là pour transformer et embellir votre intérieur avec des solutions adaptées à vos besoins.',
             ],
             [
-                'photo' => 'cards-3.jpg',
+                'photo' => 'cards-5.jpg',
                 'titre' => 'TERRASSE & CLOTURE.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Création de terrasses en bois, installation de clôtures, palissades… DML vous accompagne pour embellir vos extérieurs avec des aménagements solides et esthétiques.',
             ],
             [
                 'photo' => 'cards-4.jpg',
                 'titre' => 'PERGOLA & CARPORT.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Installation de pergolas et carports sur mesure… DML crée des espaces extérieurs pratiques et esthétiques, alliant protection et élégance pour votre maison.',
             ],
             [
-                'photo' => 'cards-5.jpg',
+                'photo' => 'cards-3.jpg',
                 'titre' => 'POSE CUISINE.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Installation de cuisines sur mesure… DML assure la pose de votre cuisine avec soin et précision, pour un espace fonctionnel, esthétique et adapté à vos besoins.',
             ],
             [
                 'photo' => 'cards-6.jpg',
                 'titre' => 'PETITE RENOVATION.',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+                'description' => 'Travaux de petite rénovation en tout genre … DML vous accompagne pour rafraîchir, améliorer, optimiser et moderniser votre intérieur comme votre extérieur.',
             ],
         ];
 

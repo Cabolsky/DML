@@ -13,17 +13,17 @@ class CommentairesFixtures extends Fixture
         $commentaires = [
             [
                 'titre' => 'SECTEUR D\'ACTIVITE',
-                'texte' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.',
+                'texte' => 'Basé à Linx, DML intervient dans toute la région des Landes. Que ce soit un aménagement extérieur, une pose de cuisine ou une petite rénovation, nous nous déplaçons en fonction de vos besoins.',
                 'icone' => 'icon-local.png'
             ],
             [
                 'titre' => 'INTERVENTION RAPIDE',
-                'texte' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.',
+                'texte' => 'Besoin d’un coup de main rapidement ? J’assure des interventions efficaces pour vos petits travaux et dépannages. Réactif et à l’écoute, je fais en sorte de répondre au plus vite à vos demandes.',
                 'icone' => 'icon-time.png'
             ],
             [
                 'titre' => 'DEVIS GRATUITS',
-                'texte' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.',
+                'texte' => 'Un projet en tête ? Discutons-en ! J’évalue vos besoins et vous propose un devis gratuit, sans engagement. Une solution claire et adaptée, en toute transparence, pour concrétiser vos idées.',
                 'icone' => 'icon-devis.png'
             ],
         ];

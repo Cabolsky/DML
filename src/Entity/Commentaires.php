@@ -21,7 +21,7 @@ class Commentaires
     private ?string $texte = null;
 
     #[ORM\Column(length: 255, nullable: true)]
-    private ?string $icone = null; // Nouvelle propriété icone
+    private ?string $icone = null; 
 
     public function getId(): ?int
     {
@@ -52,7 +52,6 @@ class Commentaires
         return $this;
     }
 
-    // Getter et setter pour la propriété icone
     public function getIcone(): ?string
     {
         return $this->icone;

@@ -26,7 +26,7 @@ final class ContactController extends AbstractController
         $article3 = $entityManager->getRepository(Article::class)->find(3);
         $article4 = $entityManager->getRepository(Article::class)->find(4);
         $article5 = $entityManager->getRepository(Article::class)->find(5);
-
+        
         return $this->render('contact/index.html.twig', [
             'controller_name' => 'ContactController',
             'commentaires' => $commentaires,

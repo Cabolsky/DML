@@ -1,0 +1,4 @@
+easy_admin:
+    dashboard:
+        title: 'Administration'
+        route: admin  # Vérifie que la route correspond bien
