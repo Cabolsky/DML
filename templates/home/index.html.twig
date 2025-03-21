@@ -101,21 +101,7 @@
 </section>
 <!-- S L I D E R -->
 
-<!-- M O D A L -->
-<section id="modal">
-    {% for photo in photos %}
-    <div class="modal fade" id="imageModal{{ loop.index }}" tabindex="-1" aria-labelledby="imageModal{{ loop.index }}Label" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-        <div class="modal-body text-center">
-            <img src="/assets/image/{{ photo.photo }}" alt="{{ photo.accessibilite }}" class="img-fluid">
-        </div>
-        </div>
-    </div>
-    </div>
-    {% endfor %}
-</section>
-<!-- M O D A L -->
+
 
 <!-- C O M M E N T -->
 <section id="comment-header" class="section-hidden">
